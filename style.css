@@ -133,7 +133,7 @@ nav {
 .app-img img {
   height: 250px;
 }
-/* ------------------------------------------------------- not done yet social media img--------------------------------------------------------------------- */
+/* ------------------------------------------------------- customer support img--------------------------------------------------------------------- */
  .customer-support img {
   cursor: pointer;
   width: 120px;
@@ -142,7 +142,6 @@ nav {
   margin-left: 1380px;
  }
 /* ------------------------------------------------------- cards ------------------------------------------------------------------------------------ */
- 
 .cards-container {
   margin-top: 50px;
   display: flex;
@@ -162,7 +161,6 @@ nav {
   background: #929DFF;
   padding: 10px 0px 10px 10px;
   line-height: 30px;
-
 }
 
 .card-two {
@@ -196,7 +194,7 @@ nav {
   line-height: 30px;
 }
 
-/* ------------------------------------------------------- footer started --------------------------------------------------------------------------- */
+/* -------------------------------------------------------  last vertical div started --------------------------------------------------------------- */
 .foter-container {
   display: flex;
   height: 462px;
@@ -254,12 +252,14 @@ nav {
   border-radius: 10px;
   width: 65%;
 }
+
 h1 {
   color: #04285A;
   position: relative;
   margin-left: 20px;
   margin-top: 30px;
 }
+
 .information {
   height: 300px;
   width: 48%;
