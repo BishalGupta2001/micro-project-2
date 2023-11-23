@@ -129,6 +129,10 @@ nav {
   top: 0px;
   height: 300px;
 }
+
+.app-img img {
+  height: 250px;
+}
 /* ------------------------------------------------------- not done yet social media img--------------------------------------------------------------------- */
  .customer-support img {
   cursor: pointer;
@@ -251,6 +255,7 @@ nav {
   width: 65%;
 }
 h1 {
+  color: #04285A;
   position: relative;
   margin-left: 20px;
   margin-top: 30px;
@@ -261,6 +266,7 @@ h1 {
 }
 
 .information p {
+  color: #04285A;
   font-size:25px;
   padding: 30px 0px 0px 30px;
 }
